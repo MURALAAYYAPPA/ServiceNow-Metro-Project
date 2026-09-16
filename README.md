@@ -5,6 +5,9 @@ Creating this repository for storing my project
 
 A ServiceNow-based digital metro ticket booking and ticket management system that automates metro ticket booking, fare calculation, payment information handling, QR-based ticket generation, and backend ticket record creation.
 
+<img width="320" height="176" alt="image" src="https://github.com/user-attachments/assets/bc34e6dd-c999-45c5-b278-c1a39355fd34" />
+
+
 ---
 
 ## 📌 Project Overview
