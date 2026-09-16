@@ -329,49 +329,30 @@ Ticket Number	Automatically generated
 
 The current project prototype uses a configured station-to-station fare matrix.
 
-From	To	Base Fare
-Ameerpet	Madhapur	₹30
-Ameerpet	Panjagutta	₹10
-Ameerpet	Uppal Stadium	₹40
-Ameerpet	Jubilee Hills	₹20
-Ameerpet	LB Nagar	₹50
-Ameerpet	Kukatpally	₹30
-Madhapur	Ameerpet	₹30
-Madhapur	Panjagutta	₹30
-Madhapur	Uppal Stadium	₹50
-Madhapur	Jubilee Hills	₹10
-Madhapur	LB Nagar	₹60
-Madhapur	Kukatpally	₹30
-Panjagutta	Ameerpet	₹10
-Panjagutta	Madhapur	₹30
-Panjagutta	Uppal Stadium	₹40
-Panjagutta	Jubilee Hills	₹20
-Panjagutta	LB Nagar	₹50
-Panjagutta	Kukatpally	₹30
-Uppal Stadium	Ameerpet	₹40
-Uppal Stadium	Madhapur	₹50
-Uppal Stadium	Panjagutta	₹40
-Uppal Stadium	Jubilee Hills	₹50
-Uppal Stadium	LB Nagar	₹30
-Uppal Stadium	Kukatpally	₹60
-Jubilee Hills	Ameerpet	₹20
-Jubilee Hills	Madhapur	₹10
-Jubilee Hills	Panjagutta	₹20
-Jubilee Hills	Uppal Stadium	₹50
-Jubilee Hills	LB Nagar	₹50
-Jubilee Hills	Kukatpally	₹30
-LB Nagar	Ameerpet	₹50
-LB Nagar	Madhapur	₹60
-LB Nagar	Panjagutta	₹50
-LB Nagar	Uppal Stadium	₹30
-LB Nagar	Jubilee Hills	₹50
-LB Nagar	Kukatpally	₹70
-Kukatpally	Ameerpet	₹30
-Kukatpally	Madhapur	₹30
-Kukatpally	Panjagutta	₹30
-Kukatpally	Uppal Stadium	₹60
-Kukatpally	Jubilee Hills	₹30
-Kukatpally	LB Nagar	₹70
+From	                To	                        Base Fare
+Ameerpet	         Uppal Stadium	                   ₹40
+Ameerpet           Jubilee Hills	                   ₹20
+Ameerpet	         LB Nagar	                         ₹50
+Ameerpet	         Kukatpally	                       ₹30
+Madhapur	         Uppal Stadium	                   ₹50
+Madhapur	         Jubilee Hills	                   ₹10
+Madhapur	         LB Nagar	                         ₹60
+Madhapur	         Kukatpally	                       ₹30
+Panjagutta	       Jubilee Hills	                   ₹20
+Panjagutta	       LB Nagar	                         ₹50
+Panjagutta	       Kukatpally	                       ₹30
+Uppal Stadium	     Madhapur	                         ₹50
+Uppal Stadium	     Panjagutta	                       ₹40
+Uppal Stadium	     Kukatpally	                       ₹60
+Jubilee Hills	     Madhapur	                         ₹10
+Jubilee Hills	     Panjagutta	                       ₹20
+Jubilee Hills	     Uppal Stadium	                   ₹50
+LB Nagar	         Madhapur	                         ₹60
+LB Nagar	         Jubilee Hills	                   ₹50
+LB Nagar	         Kukatpally	                       ₹70
+Kukatpally	       Ameerpet	                         ₹30
+Kukatpally	       Uppal Stadium	                   ₹60
+Kukatpally	       LB Nagar	                         ₹70
 
 Note: These fare values are configured for the academic/project prototype and should not be considered actual metro authority fares.
 
